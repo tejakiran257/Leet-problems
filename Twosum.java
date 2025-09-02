@@ -15,7 +15,6 @@ class Twosum {
         Scanner s=new Scanner(System.in);
      Twosum ss=new Twosum();
         int a=s.nextInt();
-      //  int b=s.nextInt();
         int c[]=new int[5];
         for(int i=0;i<5;i++){
                 c[i]=s.nextInt();
