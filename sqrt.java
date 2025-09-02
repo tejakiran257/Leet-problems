@@ -1,4 +1,5 @@
 import java.util.*;
+import java.lang.Math;
 class sqrt{
      public int mySqrt(int x) {
         int n=1,h,k;
